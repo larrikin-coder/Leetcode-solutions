@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/larrikin-coder/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/larrikin-coder/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
